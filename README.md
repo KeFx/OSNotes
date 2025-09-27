@@ -12,6 +12,7 @@
   - Layered
   - Microkernel
   - Modular
+  - Hybrid
 
 ---
 
